@@ -1,1 +1,4 @@
 venv
+mybackend/tests
+*.pyc
+__pycache__/
